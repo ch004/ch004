@@ -1,7 +1,7 @@
 <h1 align="center">Caio Henrique 👋</h1>
 
 <p align="center">
-  <b>Suporte Técnico • POS & Meios de Pagamento • Web Developer</b><br>
+  <b>Suporte Técnico • POS & Meios de Pagamento</b><br>
   Santo André - SP
 </p>
 
