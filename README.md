@@ -4,6 +4,17 @@
 
 Transformo processos manuais em fluxos automatizados, APIs e chatbots com IA.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini-4285F4?logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/Make-6D00CC?logo=make&logoColor=white" alt="Make">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Airtable-18BFFF?logo=airtable&logoColor=white" alt="Airtable">
+  <img src="https://img.shields.io/badge/Google%20Calendar-4285F4?logo=googlecalendar&logoColor=white" alt="Google Calendar">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" alt="Telegram">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+</p>
+
 ---
 
 ## ⚡ Em 30 segundos
